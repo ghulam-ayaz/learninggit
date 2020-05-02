@@ -1,0 +1,10 @@
+1- Install git using git-scm.com
+2-github.com(Making profile)
+3- Making repo in github.com
+4-Right click on git folder and select " git bash here".
+5-Type 'git init' and repository is initialized. For checking go to folder and active hidden files and 
+	you will find git folder.
+6- Type 'git status'. For checking git status. Either file are tracked by git or not.
+7-git add -A. For making files trackable.Now all the files are watched by git.
+8-if you modify any file then modify status will be told to you at git bash here.
+   Again do 'git add -A' and again check status 'git status'.
